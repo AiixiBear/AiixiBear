@@ -2,6 +2,8 @@
 
 ## Foreword
 
+[繁體中文版點這裡](README_TW.md)
+
 I am **Aiixi Bear**, u... um, hello! Welcome to my self-introduction.
 
 Here is where [**Technology**](#technology) × [**Art**](#art-and-anime) × [**Anime**](#art-and-anime) collide.
