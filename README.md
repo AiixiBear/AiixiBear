@@ -33,6 +33,8 @@ My name is **Aiixi Bear**, and **I am a bear 🐻**, though I look human.
 
 **Aiixi Bear** is a 2D persona I drew myself; she is exactly how I believe <mark>I</mark> should look.
 
+![Aiixi Bear Persona](https://avatars.githubusercontent.com/u/93070462?v=4)
+
 ## Things I Like
 
 *   Cute things
