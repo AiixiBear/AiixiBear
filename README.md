@@ -15,7 +15,7 @@ Here is where [**Technology**](#technology) × [**Art**](#art-and-anime) × [**A
 | Item | Content |
 | :--- | :--- |
 | Name | **Aiixi Bear** |
-| Aliases | Aiixi, Aishi, Aiixi-Bear, あいきくま |
+| Aliases | Aiixi, 愛希, Aiixi Bear, あいきくま |
 | Pronunciation (KK) | `/aɪʃi bɛr/` |
 | Username | `aiixi_bear` |
 | Birthday | **Oct 19** (Libra ♎) |
