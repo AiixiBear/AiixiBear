@@ -52,6 +52,7 @@
 
 **Aiixi Bear**這個二次元的樣子是我畫出來的，她就是我認為<mark>我</mark>應該的樣子
 
+![Aiixi Bear Persona](https://avatars.githubusercontent.com/u/93070462?v=4)
 
 ## 我喜歡的東西
 
